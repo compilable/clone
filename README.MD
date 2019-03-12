@@ -1,4 +1,4 @@
-# Bash Script to symmetrically encrypt the content with a given password.
+# Bash Script to symmetrically encrypt the folder content with a given password.
 
 # Command
 
