@@ -8,3 +8,7 @@
 
 * Once encypted, source file will be deleted.
 * Provided password will be saved to a text file.
+
+
+
+# Changes 1
